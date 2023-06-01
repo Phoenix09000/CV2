@@ -1,0 +1,55 @@
+.row{
+    color: white;
+    margin:  auto;
+    height: 80%;
+}
+
+.btn{
+    padding: 10px;
+    width: 100%;
+}
+
+.forgot-pass{
+    /* display: inline;
+    position: relative;
+    left: auto; */
+    align-content: right;
+    text-align: right;
+    margin: 0 0 0 29rem;
+}
+
+a, a:hover, a:visited{
+
+    color: gold;
+    display: inline;
+    opacity: 1;
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
+input{
+    color: white;
+}
+
+div{
+    background-color: white;
+    padding: 0 auto;
+    display: inline-block;
+    margin: 1rem;
+    vertical-align: middle;
+    /* left: auto;
+    right: auto; */
+    /* bottom: 112px;
+    top: 112px;
+    position: relative; */
+    width: 80%;
+    height: 80%;
+}
+
+h6{
+    margin-top: 1.5rem;
+    opacity: 50%;
+}
